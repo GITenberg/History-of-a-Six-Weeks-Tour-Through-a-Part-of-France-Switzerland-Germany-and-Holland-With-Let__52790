@@ -1,5 +1,8 @@
 _repo: History-of-a-Six-Weeks-Tour-Through-a-Part-of-France-Switzerland-Germany-and-Holland-With-Let__52790
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52790-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Shelley, Percy Bysshe
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/61
     wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52790#History-of-a-Six-Weeks-Tour-Through-a-Part-of-France-Switzerland-Germany-and-Holland-With-Let_
 gutenberg_issued: '2016-08-12'
 gutenberg_type: Text
 identifiers:
