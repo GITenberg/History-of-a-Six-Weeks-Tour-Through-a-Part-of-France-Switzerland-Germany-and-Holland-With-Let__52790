@@ -1,0 +1,41 @@
+_repo: History-of-a-Six-Weeks-Tour-Through-a-Part-of-France-Switzerland-Germany-and-Holland-With-Let__52790
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Shelley, Percy Bysshe
+    alias: Shelley, P. B. (Percy Bysshe)
+    birthdate: 1792
+    deathdate: 1822
+    gutenberg_agent_id: '1529'
+    url: http://www.gutenberg.org/2009/agents/1529
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Bysshe_Shelley
+  - agent_name: Shelley, Mary Wollstonecraft
+    aliases:
+    - Shelley, Mary W.
+    - Shelley, Mary Wollstonecraft Godwin
+    birthdate: 1797
+    deathdate: 1851
+    gutenberg_agent_id: '61'
+    url: http://www.gutenberg.org/2009/agents/61
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
+description: ''
+gutenberg_issued: '2016-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52790'
+  lccn: '28030899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822 -- Travel -- Europe'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Shelley, Mary Wollstonecraft, 1797-1851 -- Travel -- Europe'
+- !lcc 'D'
+- GITenberg
+title: "History of a Six Weeks' Tour Through a Part of France, Switzerland, Germany,\
+  \ and Holland:\r\nWith Letters Descriptive of a Sail Round the Lake of Geneva, and\
+  \ of the Glaciers of Chamouni."
+url: http://www.gutenberg.org/ebooks/52790
